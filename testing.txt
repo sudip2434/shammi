@@ -1,3 +1,9 @@
 This is some 
 chicken that I really want to eat
+<<<<<<< HEAD
 blah
+=======
+
+This is the statement in the branch chicken
+
+>>>>>>> chicken
